@@ -6,7 +6,7 @@ we provide world wide credit card for shopping a drink.
 shoping logic, credit card, signup with facebook
 <h5>Links</h5>
 https://itunes.apple.com/us/app/buddy-drinks/id978612190?ls=1&mt=8<br>
-https://play.google.com/store/apps/details?id=com.consumer.buddydrinks
+https://play.google.com/store/apps/details?id=com.consumer.buddydrinks<br>
 http://drnk.me/
 <h5>Screenshots</h5>
 ![main view](https://raw.githubusercontent.com/llvc/drink/master/portfolio/about.png)
