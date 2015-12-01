@@ -2,7 +2,7 @@
 <h5>Description</h5>
 you can buy drink at any place in the world.
 we provide world wide credit card for shopping a drink.
-<h5>Technique</h5>
+<h5>Technology</h5>
 shoping logic, credit card, signup with facebook
 <h5>Links</h5>
 https://itunes.apple.com/us/app/buddy-drinks/id978612190?ls=1&mt=8<br>
